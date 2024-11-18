@@ -1,5 +1,5 @@
 # 💫 Su di me:
-- 👋 Ciao, sono @NazagamerITA
+- 👋 Ciao, sono Naza
 - 👀 Mi piace programmare
 - 🌱 Sto imparanto Java e Swift
 - 😄 Pronomi: he/him

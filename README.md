@@ -1,5 +1,3 @@
-# 📝 Nota:
-Tutti i miei progetti a partire dal 4 marzo saranno su https://git.naza.ovh/Naza
 # 💫 Su di me:
 - 👋 Ciao, sono Naza
 - 👀 Mi piace programmare

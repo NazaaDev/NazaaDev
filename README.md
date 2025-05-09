@@ -1,7 +1,7 @@
 # 💫 Su di me:
 - 👋 Ciao, sono Naza
 - 👀 Mi piace programmare
-- 🌱 Sto imparanto Java e Swift
+- 🌱 Sto imparando Java e JS
 - 😄 Pronomi: he/him
 
 # 💻 Tech Stack:

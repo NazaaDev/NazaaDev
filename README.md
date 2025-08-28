@@ -15,7 +15,7 @@
 <h3 align="center">Ryze Client</h3>
 <div align="center">  
 <a href="#" target="_blank">
-<img src="https://naza.ovh/wp-content/uploads/2025/05/Ryzebanner-sito.png" width="50%" alt="My Awesome Project"/>
+<img src="https://naza.dev/assets/ryzeclient-banner.png" width="50%" alt="My Awesome Project"/>
 </a>
 <br>
 <br>

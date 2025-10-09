@@ -20,7 +20,7 @@
 <br>
 <br>
 <p>
-<a href="https://github.com/NazaaDev/RyzeClient" target="_blank">
+<a href="https://github.com/RyzeClient" target="_blank">
 <img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://ryzeclient.xyz" target="_blank">

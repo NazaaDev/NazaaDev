@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=yellow)](https://naza.ovh)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=yellow)](https://naza.dev)
 
 </div>
 

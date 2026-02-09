@@ -40,6 +40,3 @@ Sto preparando tanta roba, torna piu tardi!
 
 ## ✍️ Citazione casuale
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFAE00,100:462DA8&height=100&section=footer)

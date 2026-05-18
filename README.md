@@ -1,7 +1,7 @@
-# <img src="https://github.com/NazaaDev.png" width="30" height="auto"> NazaaDev
-
+# Sto migrando a GitLab
+Link del mio nuovo profilo qua sotto
 ## 🔗 Link vari
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=yellow)](https://naza.dev) [![Linktree](https://img.shields.io/badge/Linktree-%232cbd00.svg?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/nazaadev)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/nazaadev) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=yellow)](https://naza.dev) [![Linktree](https://img.shields.io/badge/Linktree-%232cbd00.svg?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/nazaadev) 
 
 ## 💾 I miei progetti
 Sto preparando tanta roba, torna piu tardi!
